@@ -2587,7 +2587,7 @@ def main():
     st.markdown("""
     <div style="text-align: center; color: #666; padding: 20px;">
         <p><strong>🚚 TMS Logístico Profesional</strong> • Sistema de optimización de rutas con mapas interactivos</p>
-        <p>Managua, Nicaragua • © 2024 • Desarrollado con Streamlit y Folium</p>
+        <p>Managua, Nicaragua • © 2025 • Desarrollado con Streamlit y Folium</p>
         <p><small>📧 ivanb.samuel@gmail.com • 📞 +505 8855 9683</small></p>
     </div>
     """, unsafe_allow_html=True)
